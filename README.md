@@ -46,7 +46,9 @@ Fragment1 (Welcome Screen) → Fragment2 (User Info) → Fragment3 (Confirmation
 - **Passing Data to Fragments:** Using Bundle and setArguments()
 - **UI Listeners:** setOnCheckedChangeListener for CheckBox
 - **Fragment Management:** FragmentManager and FragmentTransaction
+---
 
+## 📁 Project Structure
 app/src/main/java/com/example/myapplication/
 ├── MainActivity.java
 ├── Fragment1.java
@@ -65,6 +67,4 @@ app/src/main/res/layout/
 2. Open the project in Android Studio
 3. Run the app on an emulator or physical device
 
----
 
-## 📁 Project Structure
